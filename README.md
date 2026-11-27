@@ -17,6 +17,10 @@ Made by [finjet](https://finjet.ai/en/), an independent studio in Istanbul.
 
 **Sparkle Snip: Giydirme Kuaför**: okuma bilmeyen çocuklar için reklamsız kuaför ve giydirme oyunu. Abonelik yok; tek seferlik satın alma her şeyi açar, Aile Paylaşımı ile. İnternetsiz çalışır, veri toplamaz. [App Store](https://apps.apple.com/tr/app/id6828859479) · [finjet.ai](https://finjet.ai/)
 
+## Also from finjet: Sparkle Go
+
+**[Sparkle Go: Pretend Play Jobs](https://apps.apple.com/app/id6829414552)**: an ad-free pretend play and dress-up game for kids who can't read yet. Pick a job (firefighter, police officer, astronaut, pilot, ferry captain, chef), get dressed and play 20+ missions. No losing, no timers, no subscriptions; one optional one-time purchase. Türkçe adı: *Sparkle Go: Meslek Giydirme*. [More](go/)
+
 ## This repository
 
 Hosts the support and privacy pages for Sparkle Snip and Sparkle Go:
