@@ -7,7 +7,7 @@ An ad-free hair salon and dress-up game for kids on iPhone and iPad, made for ch
 - **No ads, no subscriptions.** Free to download; one optional one-time purchase (US$2.99) unlocks everything, with Family Sharing.
 - **No reading needed.** There are no words anywhere in the game.
 - **Hair salon:** shampoo, blow-dry, scissors, curlers, rainbow hair colors and glitter spray. Cats and dogs visit the salon too.
-- **Dress up:** dresses, costumes, wings, crowns and accessories.
+- **Dress up:** dresses, costumes and accessories.
 - **Offline and private:** works without internet and collects no data. Photos stay inside the game.
 - Ages 5 and under (App Store rating 4+). iPhone and iPad, iOS 17 or later.
 
